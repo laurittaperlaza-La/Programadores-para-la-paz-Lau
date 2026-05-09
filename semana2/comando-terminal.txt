@@ -1,0 +1,9 @@
+ git init
+ cd
+ mkdir
+ nano
+ ls
+ git add.
+ git commit-m
+ git push
+

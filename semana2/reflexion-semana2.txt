@@ -1,0 +1,2 @@
+Es importante la terminal permite aun desarrollador navegar,crear,mover y organizar archivos de forma rapida y eficiente ademas ayuda a ejecutar programas usar herramientas como git y trabajar mejor en proyectos de programas
+
