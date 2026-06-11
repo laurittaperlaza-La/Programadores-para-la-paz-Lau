@@ -1,0 +1,23 @@
+ pregunta:1 
+
+ ¿que es un sistema operactivo? 
+
+ respuesta: B
+
+ pregunta:2 
+
+ ¿cual de los siguientes es un sistema operativo de codigo abierto? 
+
+ respuesta: A 
+
+ pregunta3 
+
+ ¿que es la terminal en un sistema linux? 
+
+ respuesta: B 
+
+ pregunta:4 
+
+ ¿cual de las siguientes practicas mejora la seguridad digital? 
+
+ respuesta:B
