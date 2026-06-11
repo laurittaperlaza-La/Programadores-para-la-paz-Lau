@@ -1,0 +1,23 @@
+ pregunta 1:
+ 
+ ¿que es un array en programacion? 
+
+ respuesta: B
+
+ pregunta 2: 
+
+ ¿que metodo http se utiliza normalmente para consultar datos existentes? 
+
+ respuesta: B
+
+ pregunta 3: 
+
+ ¿que metodo http se usa normalmente para agregar informacion nueva? 
+
+ respuesta: B 
+
+ pregunta:  
+
+ ¿cual es el proposito de una api en una aplicacion? 
+
+ respuesta: B
