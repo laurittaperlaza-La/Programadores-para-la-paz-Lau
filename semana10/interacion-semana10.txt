@@ -1,0 +1,14 @@
+ Qué 2 tareas del backlog harías primero? 
+ 
+
+ Configurar el proyecto y el entorno de desarrollo, para que el equipo pueda trabajar de forma organizada.
+
+Por qué son las más importantes?
+
+Porque permiten que el proyecto avance de forma organizada y con menos riesgos. Configurar el entorno de desarrollo crea una base estable para que el equipo trabaje sin inconvenientes, mientras que desarrollar primero la funcionalidad principal entrega valor al usuario desde el inicio y facilita identificar mejoras o problemas a tiempo. Así se optimiza el trabajo y se aprovecha mejor el tiempo del equipo.
+
+Qué significa para ti que una tarea esté “terminada”?
+ 
+Para mí, una tarea está "terminada" cuando cumple con todos los criterios definidos y ya puede entregarse sin necesidad de hacer correcciones importantes. Esto significa que:
+Cumple con los requisitos o criterios de aceptación.
+Funciona correctamente y fue probada
