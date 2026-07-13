@@ -1,0 +1,12 @@
+  1  El ciudadano ingresa al sistema 
+
+  2  crea una peticion escribiendo el titulo y la descripcion
+
+  3  la peticion se guarda en la base de datos .
+
+  4  otros ciudadanos ingresan y apoyan la peticion
+
+  5  el sietema cuenta automaticamente los apoyos recibidos 
+
+  6  cuando sea necesario el sistema genera un documento PDF con la informacion de la peticion
+
